@@ -1,5 +1,6 @@
 {
-  "name": "Garbov's Source (testing purposes)",
+  "name": "Garbov Source Testing",
+  "identifier": "com.garbov.testing",
   "subtitle": "Just a source for apps",
   "description": "Apps I might or might not use",
   "iconURL": "https://wikimedia.org",
