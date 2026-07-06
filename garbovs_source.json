@@ -18,7 +18,6 @@
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
       "developerName": "mrdrvt99",
       "subtitle": "Youtube injected with YouProEXTRA",
       "localizedDescription": "https://github.com/mrdrvt99/YouProEXTRA",
@@ -51,12 +50,10 @@
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
         }
       },
-      "patreon": {}
     },
     {
       "name": "SpotiFLAC Mobile",
       "bundleIdentifier": "com.zarz.spotiflacAndroid",
-      "marketplaceID": "",
       "developerName": "spotiflacapp",
       "subtitle": "SpotiFLAC Mobile",
       "localizedDescription": "https://github.com/spotiflacapp/SpotiFLAC-Mobile",
@@ -81,12 +78,10 @@
           "NSPhotoLibraryUsageDescription": "SpotiFLAC Mobile needs access to save album artwork"
         }
       },
-      "patreon": {}
     },
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
-      "marketplaceID": "",
       "developerName": "Meeep1",
       "subtitle": "Spotify injected with EeveeSpotifyRevived",
       "localizedDescription": "https://github.com/Meeep1/EeveeSpotifyRevivedPublic",
@@ -109,12 +104,10 @@
         "entitlements": [],
         "privacy": {}
       },
-      "patreon": {}
     },
     {
       "name": "Youtube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
-      "marketplaceID": "",
       "developerName": "Google",
       "subtitle": "Youtube Music injected with YTMusicUltimate",
       "localizedDescription": "https://github.com/dayanch96/YTMusicUltimate",
@@ -137,7 +130,6 @@
         "entitlements": [],
         "privacy": {}
       },
-      "patreon": {}
     },
     {
       "name": "Discord",
@@ -178,12 +170,10 @@
           "NSUserTrackingUsageDescription": "Allowing tracking helps us show you Quests for games you play or are interested in. You can opt out anytime in your iOS settings."
         }
       },
-      "patreon": {}
     },
     {
       "name": "WhatsApp Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "marketplaceID": "",
       "developerName": "Fouad Raheb",
       "subtitle": "WhatsApp injected with Watusi (use as linked device)",
       "localizedDescription": "https://github.com/FouadRaheb/Watusi-for-WhatsApp",
@@ -222,12 +212,10 @@
           "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp."
         }
       },
-      "patreon": {}
     },
     {
       "name": "Swiftgram",
       "bundleIdentifier": "app.swiftgram.ios",
-      "marketplaceID": "",
       "developerName": "Akentech Ltd",
       "subtitle": "Swiftgram injected with Lead",
       "localizedDescription": "https://github.com/Swiftgram/Telegram-iOS",
@@ -262,12 +250,10 @@
           "NSSpeechRecognitionUsageDescription": "We need this to transcribe audio messages on your request."
         }
       },
-      "patreon": {}
     },
     {
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
-      "marketplaceID": "",
       "developerName": "faroukbmiled",
       "subtitle": "Instagram injected with RyukGram",
       "localizedDescription": "https://github.com/faroukbmiled/RyukGram",
@@ -307,7 +293,6 @@
           "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
         }
       },
-      "patreon": {}
     }
   ],
   "news": []
