@@ -51,7 +51,7 @@
     {
       "name": "Youtube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "Google",
+      "developerName": "dayach96",
       "subtitle": "Youtube Music injected with YTMusicUltimate",
       "localizedDescription": "https://github.com/dayanch96/YTMusicUltimate",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/960px-Youtube_Music_icon.svg.png",
@@ -109,7 +109,7 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "faroukbmiled",
       "subtitle": "Instagram injected with RyukGram",
-      "localizedDescription": "https://github.com/faroukbmiled/RyukGramS",
+      "localizedDescription": "https://github.com/faroukbmiled/RyukGram",
       "iconURL": "https://i.imgur.com/iCoTLei.png",
       "tintColor": "#5464f4",
       "category": "other",
