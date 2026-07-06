@@ -8,7 +8,11 @@
     "com.burbn.instagram",
     "app.swiftgram.ios",
     "com.hammerandchisel.discord",
-    "net.whatsapp.WhatsAppSMB"
+    "net.whatsapp.WhatsAppSMB",
+    "com.google.ios.youtubemusic",
+    "com.spotify.client",
+    "com.zarz.spotiflacAndroid",
+    "com.google.ios.youtube"
   ],
   "apps": [
     {
@@ -17,7 +21,7 @@
       "marketplaceID": "",
       "developerName": "mrdrvt99",
       "subtitle": "Youtube injected with YouProEXTRA",
-      "localizedDescription": "",
+      "localizedDescription": "https://github.com/mrdrvt99/YouProEXTRA",
       "iconURL": "https://i.imgur.com/W81wsfk.png",
       "tintColor": "#fc0434",
       "category": "entertainment",
@@ -27,10 +31,10 @@
           "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytkp-ipa6/YTKillerPlus_21.26.4_5.7.6.ipa",
           "size": 135400000,
           "version": "21.26.4",
-          "buildVersion": null,
-          "date": "2026-07-06T12:20:00+02:00",
+          "buildVersion": "1",
+          "date": "2026-07-06T10:20:00+02:00",
           "localizedDescription": null,
-          "minOSVersion": null
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
@@ -55,7 +59,7 @@
       "marketplaceID": "",
       "developerName": "spotiflacapp",
       "subtitle": "SpotiFLAC Mobile",
-      "localizedDescription": "",
+      "localizedDescription": "https://github.com/spotiflacapp/SpotiFLAC-Mobile",
       "iconURL": "https://i.imgur.com/LOrA4oI.png",
       "tintColor": "#7f7f7f",
       "category": "entertainment",
@@ -65,10 +69,10 @@
           "downloadURL": "https://github.com/spotiflacapp/SpotiFLAC-Mobile/releases/download/v4.7.1/SpotiFLAC-v4.7.1-ios-unsigned.ipa",
           "size": 37500000,
           "version": "4.7.1",
-          "buildVersion": null,
-          "date": "2026-07-06T12:14:00+02:00",
+          "buildVersion": "1",
+          "date": "2026-07-06T10:14:00+02:00",
           "localizedDescription": null,
-          "minOSVersion": null
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
@@ -85,7 +89,7 @@
       "marketplaceID": "",
       "developerName": "Meeep1",
       "subtitle": "Spotify injected with EeveeSpotifyRevived",
-      "localizedDescription": "",
+      "localizedDescription": "https://github.com/Meeep1/EeveeSpotifyRevivedPublic",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/3840px-Spotify_App_Logo.svg.png",
       "tintColor": "#007f1d",
       "category": "entertainment",
@@ -95,10 +99,10 @@
           "downloadURL": "https://u.pone.rs/znfcjbll.ipa",
           "size": 295600000,
           "version": "9.1.60",
-          "buildVersion": null,
-          "date": "2026-07-06T12:12:00+02:00",
+          "buildVersion": "1",
+          "date": "2026-07-06T10:12:00+02:00",
           "localizedDescription": null,
-          "minOSVersion": null
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
@@ -108,12 +112,12 @@
       "patreon": {}
     },
     {
-      "name": "WatchApp",
+      "name": "Youtube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "marketplaceID": "",
       "developerName": "Google",
       "subtitle": "Youtube Music injected with YTMusicUltimate",
-      "localizedDescription": "",
+      "localizedDescription": "https://github.com/dayanch96/YTMusicUltimate",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/960px-Youtube_Music_icon.svg.png",
       "tintColor": "#e25a56",
       "category": "entertainment",
@@ -123,10 +127,10 @@
           "downloadURL": "https://u.pone.rs/qvfqgiyz.ipa",
           "size": 264800000,
           "version": "9.26.2",
-          "buildVersion": null,
-          "date": "2026-07-06T12:08:00+02:00",
+          "buildVersion": "1",
+          "date": "2026-07-06T10:08:00+02:00",
           "localizedDescription": null,
-          "minOSVersion": null
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
@@ -141,7 +145,7 @@
       "marketplaceID": "",
       "developerName": "cocobo1",
       "subtitle": "Discord injected with Kettu",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "localizedDescription": "https://github.com/C0C0B01/KettuTweak",
       "iconURL": "https://i.imgur.com/8aKusNU.png",
       "tintColor": "#5464f4",
       "category": "other",
@@ -151,10 +155,10 @@
           "downloadURL": "https://github.com/C0C0B01/KettuTweak/releases/download/v305.1/KettuTweak.ipa",
           "size": 94100000,
           "version": "305.1",
-          "buildVersion": null,
-          "date": "2026-07-06T11:46:00+02:00",
+          "buildVersion": "1",
+          "date": "2026-07-06T09:46:00+02:00",
           "localizedDescription": null,
-          "minOSVersion": null
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
@@ -182,7 +186,7 @@
       "marketplaceID": "",
       "developerName": "Fouad Raheb",
       "subtitle": "WhatsApp injected with Watusi (use as linked device)",
-      "localizedDescription": "",
+      "localizedDescription": "https://github.com/FouadRaheb/Watusi-for-WhatsApp",
       "iconURL": "https://i.imgur.com/3j9mm25.png",
       "tintColor": "#04ec6a",
       "category": "social",
@@ -192,10 +196,10 @@
           "downloadURL": "https://u.pone.rs/tojzitrn.ipa",
           "size": 156200000,
           "version": "26.25.10",
-          "buildVersion": null,
-          "date": "2026-07-06T11:42:00+02:00",
+          "buildVersion": "1",
+          "date": "2026-07-06T09:42:00+02:00",
           "localizedDescription": null,
-          "minOSVersion": null
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
@@ -226,7 +230,7 @@
       "marketplaceID": "",
       "developerName": "Akentech Ltd",
       "subtitle": "Swiftgram tweak",
-      "localizedDescription": "",
+      "localizedDescription": "https://github.com/Swiftgram/Telegram-iOS",
       "iconURL": "https://i.imgur.com/A7sibZD.png",
       "tintColor": "#fc7c34",
       "category": "social",
@@ -236,10 +240,10 @@
           "downloadURL": "https://u.pone.rs/itkytzxk.ipa",
           "size": 81900000,
           "version": "12.8",
-          "buildVersion": null,
-          "date": "2026-07-06T11:38:00+02:00",
+          "buildVersion": "1",
+          "date": "2026-07-06T09:38:00+02:00",
           "localizedDescription": "Swiftgram injected with Lead",
-          "minOSVersion": null
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
@@ -265,8 +269,8 @@
       "bundleIdentifier": "com.burbn.instagram",
       "marketplaceID": "",
       "developerName": "faroukbmiled",
-      "subtitle": "RyukGram",
-      "localizedDescription": "RyukGram tweak for Instagram made by faroukbmiled hosted by me",
+      "subtitle": "Instagram injected with RyukGram",
+      "localizedDescription": "https://github.com/faroukbmiled/RyukGram",
       "iconURL": "https://i.imgur.com/iCoTLei.png",
       "tintColor": "#920efc",
       "category": "social",
@@ -276,10 +280,10 @@
           "downloadURL": "https://u.pone.rs/hladbmbq.ipa",
           "size": 622100000,
           "version": "437.1.0",
-          "buildVersion": null,
-          "date": "2026-07-06T11:29:00+02:00",
+          "buildVersion": "1",
+          "date": "2026-07-06T09:29:00+02:00",
           "localizedDescription": "Updated to the latest avaliable Instagram version",
-          "minOSVersion": null
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
