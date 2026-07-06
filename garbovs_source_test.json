@@ -16,7 +16,8 @@
       "category": "entertainment",
       "downloadURL": "https://github.com/releases/download/ytkp-ipa6/YTKillerPlus_21.26.4_5.7.6.ipa",
       "size": 135400000,
-      "version": "21.26.4"
+      "version": "21.26.4",
+      "versionDate": "2026-07-06"
     },
     {
       "name": "SpotiFLAC Mobile",
@@ -29,7 +30,8 @@
       "category": "entertainment",
       "downloadURL": "https://github.com/releases/download/v4.7.1/SpotiFLAC-v4.7.1-ios-unsigned.ipa",
       "size": 37500000,
-      "version": "4.7.1"
+      "version": "4.7.1",
+      "versionDate": "2026-07-06"
     },
     {
       "name": "Spotify",
@@ -42,7 +44,8 @@
       "category": "entertainment",
       "downloadURL": "https://pone.rs",
       "size": 295600000,
-      "version": "9.1.60"
+      "version": "9.1.60",
+      "versionDate": "2026-07-06"
     },
     {
       "name": "Youtube Music",
@@ -55,7 +58,8 @@
       "category": "entertainment",
       "downloadURL": "https://pone.rs",
       "size": 264800000,
-      "version": "9.26.2"
+      "version": "9.26.2",
+      "versionDate": "2026-07-06"
     },
     {
       "name": "Discord",
@@ -68,7 +72,8 @@
       "category": "other",
       "downloadURL": "https://github.com/releases/download/v305.1/KettuTweak.ipa",
       "size": 94100000,
-      "version": "305.1"
+      "version": "305.1",
+      "versionDate": "2026-07-06"
     }
   ]
 }
