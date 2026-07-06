@@ -1,0 +1,307 @@
+{
+  "name": "Garbov's Source",
+  "subtitle": "Just a source for apps",
+  "description": "Apps I might or might not use",
+  "iconURL": "https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.burbn.instagram",
+    "app.swiftgram.ios",
+    "com.hammerandchisel.discord",
+    "net.whatsapp.WhatsAppSMB",
+    "com.google.ios.youtubemusic",
+    "com.spotify.client",
+    "com.zarz.spotiflacAndroid",
+    "com.google.ios.youtube"
+  ],
+  "apps": [
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "mrdrvt99",
+      "subtitle": "Youtube injected with YouProEXTRA",
+      "localizedDescription": "https://github.com/mrdrvt99/YouProEXTRA",
+      "iconURL": "https://i.imgur.com/W81wsfk.png",
+      "tintColor": "#fc0434",
+      "category": "entertainment",
+      "screenshots": [],
+      "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytkp-ipa6/YTKillerPlus_21.26.4_5.7.6.ipa",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytkp-ipa6/YTKillerPlus_21.26.4_5.7.6.ipa",
+          "size": 135400000,
+          "version": "21.26.4",
+          "buildVersion": "1",
+          "date": "2026-07-06T10:20:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+    },
+    {
+      "name": "SpotiFLAC Mobile",
+      "bundleIdentifier": "com.zarz.spotiflacAndroid",
+      "developerName": "spotiflacapp",
+      "subtitle": "SpotiFLAC Mobile",
+      "localizedDescription": "https://github.com/spotiflacapp/SpotiFLAC-Mobile",
+      "iconURL": "https://i.imgur.com/LOrA4oI.png",
+      "tintColor": "#7f7f7f",
+      "category": "entertainment",
+      "screenshots": [],
+      "downloadURL": "https://github.com/spotiflacapp/SpotiFLAC-Mobile/releases/download/v4.7.1/SpotiFLAC-v4.7.1-ios-unsigned.ipa",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/spotiflacapp/SpotiFLAC-Mobile/releases/download/v4.7.1/SpotiFLAC-v4.7.1-ios-unsigned.ipa",
+          "size": 37500000,
+          "version": "4.7.1",
+          "buildVersion": "1",
+          "date": "2026-07-06T10:14:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "SpotiFLAC Mobile needs access to save album artwork"
+        }
+      },
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Meeep1",
+      "subtitle": "Spotify injected with EeveeSpotifyRevived",
+      "localizedDescription": "https://github.com/Meeep1/EeveeSpotifyRevivedPublic",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/3840px-Spotify_App_Logo.svg.png",
+      "tintColor": "#007f1d",
+      "category": "entertainment",
+      "screenshots": [],
+      "downloadURL": "https://u.pone.rs/znfcjbll.ipa",
+      "versions": [
+        {
+          "downloadURL": "https://u.pone.rs/znfcjbll.ipa",
+          "size": 295600000,
+          "version": "9.1.60",
+          "buildVersion": "1",
+          "date": "2026-07-06T10:12:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+    },
+    {
+      "name": "Youtube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Google",
+      "subtitle": "Youtube Music injected with YTMusicUltimate",
+      "localizedDescription": "https://github.com/dayanch96/YTMusicUltimate",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/960px-Youtube_Music_icon.svg.png",
+      "tintColor": "#e25a56",
+      "category": "entertainment",
+      "screenshots": [],
+      "downloadURL": "https://u.pone.rs/qvfqgiyz.ipa",
+      "versions": [
+        {
+          "downloadURL": "https://u.pone.rs/qvfqgiyz.ipa",
+          "size": 264800000,
+          "version": "9.26.2",
+          "buildVersion": "1",
+          "date": "2026-07-06T10:08:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+    },
+    {
+      "name": "Discord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "marketplaceID": "",
+      "developerName": "cocobo1",
+      "subtitle": "Discord injected with Kettu",
+      "localizedDescription": "https://github.com/C0C0B01/KettuTweak",
+      "iconURL": "https://i.imgur.com/8aKusNU.png",
+      "tintColor": "#5464f4",
+      "category": "other",
+      "screenshots": [],
+      "downloadURL": "https://github.com/C0C0B01/KettuTweak/releases/download/v305.1/KettuTweak.ipa",
+      "versions": [
+        {
+          "downloadURL": "https://github.com/C0C0B01/KettuTweak/releases/download/v305.1/KettuTweak.ipa",
+          "size": 94100000,
+          "version": "305.1",
+          "buildVersion": "1",
+          "date": "2026-07-06T09:46:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+          "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+          "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+          "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+          "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+          "NSLocationAlwaysUsageDescription": "To enable services that require location",
+          "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+          "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+          "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+          "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities.",
+          "NSUserTrackingUsageDescription": "Allowing tracking helps us show you Quests for games you play or are interested in. You can opt out anytime in your iOS settings."
+        }
+      },
+    },
+    {
+      "name": "WhatsApp Business",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "developerName": "Fouad Raheb",
+      "subtitle": "WhatsApp injected with Watusi (use as linked device)",
+      "localizedDescription": "https://github.com/FouadRaheb/Watusi-for-WhatsApp",
+      "iconURL": "https://i.imgur.com/3j9mm25.png",
+      "tintColor": "#04ec6a",
+      "category": "social",
+      "screenshots": [],
+      "downloadURL": "https://u.pone.rs/tojzitrn.ipa",
+      "versions": [
+        {
+          "downloadURL": "https://u.pone.rs/tojzitrn.ipa",
+          "size": 156200000,
+          "version": "26.25.10",
+          "buildVersion": "1",
+          "date": "2026-07-06T09:42:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your customers and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp Business.",
+          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "‎This lets you send your current location or nearby places.",
+          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places.",
+          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "‎This lets you set reminders to call your customers back.",
+          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp."
+        }
+      },
+    },
+    {
+      "name": "Swiftgram",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName": "Akentech Ltd",
+      "subtitle": "Swiftgram injected with Lead",
+      "localizedDescription": "https://github.com/Swiftgram/Telegram-iOS",
+      "iconURL": "https://i.imgur.com/A7sibZD.png",
+      "tintColor": "#fc7c34",
+      "category": "social",
+      "screenshots": [],
+      "downloadURL": "https://u.pone.rs/itkytzxk.ipa",
+      "versions": [
+        {
+          "downloadURL": "https://u.pone.rs/itkytzxk.ipa",
+          "size": 81900000,
+          "version": "12.8",
+          "buildVersion": "1",
+          "date": "2026-07-06T09:38:00+02:00",
+          "localizedDescription": "Swiftgram injected with Lead",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "We need this so that you can take and share photos and videos.",
+          "NSContactsUsageDescription": "Swiftgram stores your contacts heavily encrypted in the Telegram cloud to let you connect with your friends across all your devices.",
+          "NSFaceIDUsageDescription": "You can use Face ID to unlock the app.",
+          "NSLocationAlwaysUsageDescription": "When you send your location to your friends, Swiftgram needs access to show them a map. You also need this to send locations from an Apple Watch.",
+          "NSLocationWhenInUseUsageDescription": "When you send your location to your friends, Swiftgram needs access to show them a map.",
+          "NSMicrophoneUsageDescription": "We need this so that you can record and share voice messages and videos with sound.",
+          "NSMotionUsageDescription": "When you send your location to your friends, Swiftgram needs access to show them a map.",
+          "NSPhotoLibraryAddUsageDescription": "We need this so that you can share photos and videos from your photo library.",
+          "NSPhotoLibraryUsageDescription": "We need this so that you can share photos and videos from your photo library.",
+          "NSSiriUsageDescription": "You can use Siri to send messages.",
+          "NSSpeechRecognitionUsageDescription": "We need this to transcribe audio messages on your request."
+        }
+      },
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "faroukbmiled",
+      "subtitle": "Instagram injected with RyukGram",
+      "localizedDescription": "https://github.com/faroukbmiled/RyukGram",
+      "iconURL": "https://i.imgur.com/iCoTLei.png",
+      "tintColor": "#920efc",
+      "category": "social",
+      "screenshots": [],
+      "downloadURL": "https://u.pone.rs/hladbmbq.ipa",
+      "versions": [
+        {
+          "downloadURL": "https://u.pone.rs/hladbmbq.ipa",
+          "size": 622100000,
+          "version": "437.1.0",
+          "buildVersion": "1",
+          "date": "2026-07-06T09:29:00+02:00",
+          "localizedDescription": "Updated to the latest avaliable Instagram version",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://facebook.com",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
+          "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
+        }
+      },
+    }
+  ],
+  "news": []
+}
