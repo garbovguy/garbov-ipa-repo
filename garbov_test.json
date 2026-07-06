@@ -130,7 +130,6 @@
     {
       "name": "Discord",
       "bundleIdentifier": "com.hammerandchisel.discord",
-      "marketplaceID": "",
       "developerName": "cocobo1",
       "subtitle": "Discord injected with Kettu",
       "localizedDescription": "https://github.com/C0C0B01/KettuTweak",
