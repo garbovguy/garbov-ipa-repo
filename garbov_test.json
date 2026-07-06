@@ -75,7 +75,7 @@
       "size": 94100000,
       "version": "305.1",
       "versionDate": "2026-07-06"
-    }
+    },
     {
       "name": "WhatsApp Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
@@ -89,7 +89,7 @@
       "size": 94100000,
       "version": "305.1",
       "versionDate": "2026-07-06"
-    }
+    },
     {
       "name": "Swiftgram",
       "bundleIdentifier": "app.swiftgram.ios",
@@ -103,7 +103,7 @@
       "size": 94100000,
       "version": "305.1",
       "versionDate": "2026-07-06"
-    }
+    },
     {
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
