@@ -1,10 +1,8 @@
 {
-  "name": "Garbov's Test Source",
+  "name": "Garbov's Source",
   "subtitle": "Just a source for apps",
   "description": "Apps I might or might not use",
   "iconURL": "https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg",
-  "website": "",
-  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.burbn.instagram",
@@ -20,7 +18,6 @@
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
-    
       "developerName": "mrdrvt99",
       "subtitle": "Youtube injected with YouProEXTRA",
       "localizedDescription": "https://github.com/mrdrvt99/YouProEXTRA",
@@ -33,7 +30,6 @@
           "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytkp-ipa6/YTKillerPlus_21.26.4_5.7.6.ipa",
           "size": 135400000,
           "version": "21.26.4",
-          
           "date": "2026-07-06T10:20:00+02:00",
           "localizedDescription": null,
           "minOSVersion": "16.0"
@@ -53,14 +49,10 @@
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
         }
       },
-      "patreon": {
-
-      }
     },
     {
       "name": "SpotiFLAC Mobile",
       "bundleIdentifier": "com.zarz.spotiflacAndroid",
-    
       "developerName": "spotiflacapp",
       "subtitle": "SpotiFLAC Mobile",
       "localizedDescription": "https://github.com/spotiflacapp/SpotiFLAC-Mobile",
@@ -73,9 +65,8 @@
           "downloadURL": "https://github.com/spotiflacapp/SpotiFLAC-Mobile/releases/download/v4.7.1/SpotiFLAC-v4.7.1-ios-unsigned.ipa",
           "size": 37500000,
           "version": "4.7.1",
-          
           "date": "2026-07-06T10:14:00+02:00",
-          "localizedDescription": SpotiFLAC,
+          "localizedDescription": null,
           "minOSVersion": "16.0"
         }
       ],
@@ -85,14 +76,10 @@
           "NSPhotoLibraryUsageDescription": "SpotiFLAC Mobile needs access to save album artwork"
         }
       },
-      "patreon": {
-
-      }
     },
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
-    
       "developerName": "Meeep1",
       "subtitle": "Spotify injected with EeveeSpotifyRevived",
       "localizedDescription": "https://github.com/Meeep1/EeveeSpotifyRevivedPublic",
@@ -105,7 +92,6 @@
           "downloadURL": "https://u.pone.rs/znfcjbll.ipa",
           "size": 295600000,
           "version": "9.1.60",
-          
           "date": "2026-07-06T10:12:00+02:00",
           "localizedDescription": null,
           "minOSVersion": "16.0"
@@ -113,18 +99,12 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-
-        }
+        "privacy": {}
       },
-      "patreon": {
-
-      }
     },
     {
       "name": "Youtube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
-    
       "developerName": "Google",
       "subtitle": "Youtube Music injected with YTMusicUltimate",
       "localizedDescription": "https://github.com/dayanch96/YTMusicUltimate",
@@ -137,7 +117,6 @@
           "downloadURL": "https://u.pone.rs/qvfqgiyz.ipa",
           "size": 264800000,
           "version": "9.26.2",
-          
           "date": "2026-07-06T10:08:00+02:00",
           "localizedDescription": null,
           "minOSVersion": "16.0"
@@ -145,18 +124,13 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-
-        }
+        "privacy": {}
       },
-      "patreon": {
-
-      }
     },
     {
       "name": "Discord",
       "bundleIdentifier": "com.hammerandchisel.discord",
-    
+      "marketplaceID": "",
       "developerName": "cocobo1",
       "subtitle": "Discord injected with Kettu",
       "localizedDescription": "https://github.com/C0C0B01/KettuTweak",
@@ -169,7 +143,6 @@
           "downloadURL": "https://github.com/C0C0B01/KettuTweak/releases/download/v305.1/KettuTweak.ipa",
           "size": 94100000,
           "version": "305.1",
-          
           "date": "2026-07-06T09:46:00+02:00",
           "localizedDescription": null,
           "minOSVersion": "16.0"
@@ -192,14 +165,10 @@
           "NSUserTrackingUsageDescription": "Allowing tracking helps us show you Quests for games you play or are interested in. You can opt out anytime in your iOS settings."
         }
       },
-      "patreon": {
-
-      }
     },
     {
       "name": "WhatsApp Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-    
       "developerName": "Fouad Raheb",
       "subtitle": "WhatsApp injected with Watusi (use as linked device)",
       "localizedDescription": "https://github.com/FouadRaheb/Watusi-for-WhatsApp",
@@ -212,7 +181,6 @@
           "downloadURL": "https://u.pone.rs/tojzitrn.ipa",
           "size": 156200000,
           "version": "26.25.10",
-          
           "date": "2026-07-06T09:42:00+02:00",
           "localizedDescription": null,
           "minOSVersion": "16.0"
@@ -238,16 +206,12 @@
           "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp."
         }
       },
-      "patreon": {
-
-      }
     },
     {
       "name": "Swiftgram",
       "bundleIdentifier": "app.swiftgram.ios",
-    
       "developerName": "Akentech Ltd",
-      "subtitle": "Swiftgram tweak",
+      "subtitle": "Swiftgram injected with Lead",
       "localizedDescription": "https://github.com/Swiftgram/Telegram-iOS",
       "iconURL": "https://i.imgur.com/A7sibZD.png",
       "tintColor": "#fc7c34",
@@ -258,7 +222,6 @@
           "downloadURL": "https://u.pone.rs/itkytzxk.ipa",
           "size": 81900000,
           "version": "12.8",
-          
           "date": "2026-07-06T09:38:00+02:00",
           "localizedDescription": "Swiftgram injected with Lead",
           "minOSVersion": "16.0"
@@ -280,14 +243,10 @@
           "NSSpeechRecognitionUsageDescription": "We need this to transcribe audio messages on your request."
         }
       },
-      "patreon": {
-
-      }
     },
     {
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
-    
       "developerName": "faroukbmiled",
       "subtitle": "Instagram injected with RyukGram",
       "localizedDescription": "https://github.com/faroukbmiled/RyukGram",
@@ -300,7 +259,6 @@
           "downloadURL": "https://u.pone.rs/hladbmbq.ipa",
           "size": 622100000,
           "version": "437.1.0",
-          
           "date": "2026-07-06T09:29:00+02:00",
           "localizedDescription": "Updated to the latest avaliable Instagram version",
           "minOSVersion": "16.0"
@@ -327,9 +285,6 @@
           "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
         }
       },
-      "patreon": {
-
-      }
     }
   ],
   "news": []
