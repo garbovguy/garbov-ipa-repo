@@ -33,7 +33,7 @@
           "version": "5.3.9",
           "date": "2026-07-08T20:27:00+02:00",
           "localizedDescription": null,
-          "minOSVersion": null
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
