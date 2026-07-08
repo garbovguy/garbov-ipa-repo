@@ -289,7 +289,7 @@
       "name": "BoxBoxClub",
       "bundleIdentifier": "club.boxbox.widgets-ios",
       "developerName": "Blatants",
-      "subtitle": "BoxBoxClub with unlocked subscription"",
+      "subtitle": "BoxBoxClub with unlocked subscription",
       "localizedDescription": "https://t.me/blatants/10954",
       "iconURL": "https://i.imgur.com/2pdMGJs.png",
       "tintColor": "#fc322e",
@@ -314,9 +314,8 @@
           "NSPhotoLibraryUsageDescription": "Update your profile picture from your gallery"
         }
       },
-    }
+    },
     {
-    
-  ],
+      ],
   "news": []
 }
