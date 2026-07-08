@@ -5,6 +5,7 @@
   "iconURL": "https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg",
   "tintColor": "#6156e2",
   "featuredApps": [
+    "club.boxbox.widgets-ios",
     "com.burbn.instagram",
     "app.swiftgram.ios",
     "com.hammerandchisel.discord",
@@ -15,6 +16,36 @@
     "com.google.ios.youtube"
   ],
   "apps": [
+    {
+      "name": "BoxBoxClub",
+      "bundleIdentifier": "club.boxbox.widgets-ios",
+      "developerName": "Blatants",
+      "subtitle": "BoxBoxClub with unlocked subscription",
+      "localizedDescription": "https://t.me/blatants/10954",
+      "iconURL": "https://i.imgur.com/txOU7kl.png",
+      "tintColor": "#fc322e",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://u.pone.rs/wavaqock.ipa",
+          "size": 109500000,
+          "version": "5.3.9",
+          "date": "2026-07-08T20:27:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSAdvertisingAttributionReportEndpoint": "https://postbacks-app.com",
+          "NSCameraUsageDescription": "Update your profile picture by clicking a photo",
+          "NSPhotoLibraryUsageDescription": "Update your profile picture from your gallery"
+        }
+      },
+    },
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
